@@ -57,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="550.32147"
-     inkscape:cy="733.73686"
+     inkscape:zoom="0.5"
+     inkscape:cx="1375.5899"
+     inkscape:cy="658.58855"
      inkscape:document-units="cm"
      inkscape:current-layer="g4766"
      showgrid="false"
@@ -67,7 +67,7 @@
      width="60cm"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -379,13 +379,13 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Cambria;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="-801.95087"
-           y="237.94066"
+           y="327.94067"
            id="text3159-4"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3161-7"
              x="-798.41962"
-             y="237.94066">Page 1 - Top </tspan></text>
+             y="327.94067">Page 1 - Top </tspan></text>
         <g
            id="g6075"
            transform="translate(639.63497,-983.2245)"
@@ -449,13 +449,13 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Cambria;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="-170.80112"
-           y="238.73753"
+           y="328.73755"
            id="text3159"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3161"
              x="-167.26987"
-             y="238.73753">Page 2 - Middle </tspan></text>
+             y="328.73755">Page 2 - Middle </tspan></text>
         <g
            id="g6070"
            transform="translate(562.85693,-1006.8766)">
@@ -487,16 +487,16 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Cambria;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="392.24002"
-           y="237.94066"
+           y="327.94067"
            id="text3163"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3165"
              x="395.77127"
-             y="237.94066">Page 3 - Bottom </tspan><tspan
+             y="327.94067">Page 3 - Bottom </tspan><tspan
              sodipodi:role="line"
              x="392.24002"
-             y="277.94067"
+             y="367.94067"
              id="tspan3167" /></text>
       </g>
     </g>
